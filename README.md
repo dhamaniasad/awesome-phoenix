@@ -8,7 +8,7 @@
 
 ## Contents
 
-- [Awesome Phoenix](/#)
+- [Awesome Phoenix](#awesome-phoenix)
   - [Sample Apps](#sample-apps)
   
 ### Sample Apps
