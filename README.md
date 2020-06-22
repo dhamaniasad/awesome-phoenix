@@ -14,6 +14,7 @@
   
 ### Sample Apps
 * [Phoenix Chat Example](https://github.com/dwyl/phoenix-chat-example) - An open source chat app built with Phoenix, with an accompanying [tutorial](#tutorials)
+* [Phoenix React Native Mashup](https://github.com/skellock/phoenix-react-native-mashup) - An example Chat app demonstrating how to connect React Native and Phoenix
 
 ### Tutorials
 * [Phoenix Chat Example](https://github.com/dwyl/phoenix-chat-example) - A step-by-step, end-to-end tutorial for building, testing and deploying a Chat app in Phoenix
